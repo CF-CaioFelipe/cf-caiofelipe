@@ -17,12 +17,10 @@
 <div style="display: inline_block"><br>
     <img title="C#" align="center" alt="Caio C#" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
      <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg">
-     <img title="HTML 5" align="center" alt="Adriano-HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-     <img title="CSS 3" align="center" alt="AdrianoCSS3" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+     <img title="HTML" align="center" alt="Caio HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+     <img title="CSS" align="center" alt="Caio CSS" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img title="Github" align="center" alt="Adriano-Git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img title="PostGreSQL" align="center" alt="Adriano-PostGreSQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img title="MySQL" align="center" alt="Adriano-MySQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img title="Docker" align="center" alt="Adriano-Docker" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+  <img title="SQL Server" align="center" alt="Caio SQL Server" height="30" width="55" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/msql_server.svg"/>
 </div>  
 <br>
 
