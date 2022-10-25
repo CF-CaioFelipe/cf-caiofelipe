@@ -9,7 +9,7 @@
 
 ## Formações Alura <a href="https://cursos.alura.com.br/vitrinedev/caiofelipe-developer">VitrineDev - Certificados</a>
 
-| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/htmlecss.jpg) |
+| ![](https://github.com/CF-CaioFelipe/cf-caiofelipe/blob/main/C%23.png?raw=true) | ![](https://github.com/CF-CaioFelipe/cf-caiofelipe/blob/main/aspnetcore.png?raw=true) | ![](https://github.com/CF-CaioFelipe/cf-caiofelipe/blob/main/SQL.png?raw=true) | ![](https://github.com/CF-CaioFelipe/cf-caiofelipe/blob/main/HTTP.png?raw=true) |
 | :-: | :-: | :-: | :-: |
 
 ## 🛠️ Ferramentas e Tecnologias
@@ -28,7 +28,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cf-caiofelipe&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cf-caiofelipe&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cf-caiofelipe&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cf-caiofelipe&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=adrianopavaneli&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cf-caiofelipe&layout=compact&langs_count=7&theme=github_dark)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cf-caiofelipe&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=cf-caiofelipe&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cf-caiofelipe&layout=compact&langs_count=7&theme=github_dark)
 | :-: | :-: | :-: |
 
 
