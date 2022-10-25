@@ -15,7 +15,7 @@
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
-    <img title="C#" align="center" alt="Caio C#" height="30" width="55" src="https://img.icons8.com/fluency/344/c-sharp-logo.png">
+    <img title="C#" align="center" alt="Caio C#" height="30" width="55" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
      <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg">
      <img title="HTML" align="center" alt="Caio HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img title="CSS" align="center" alt="Caio CSS" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
