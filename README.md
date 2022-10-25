@@ -15,8 +15,8 @@
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
-    <img title="Java" align="center" alt="Adriano-JAVA" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-     <img title="Spring Boot" align="center" alt="Adriano-Spring" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img title="C#" align="center" alt="Caio C#" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg">
      <img title="HTML 5" align="center" alt="Adriano-HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img title="CSS 3" align="center" alt="AdrianoCSS3" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img title="Github" align="center" alt="Adriano-Git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
