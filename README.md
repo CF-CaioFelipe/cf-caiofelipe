@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
     <img title="C#" align="center" alt="Caio C#" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-     <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://img.icons8.com/external-those-icons-flat-those-icons/452/external-Dot-Net-Logo-social-media-those-icons-flat-those-icons.png">
+     <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dotnet_logo_icon_170223.png">
      <img title="HTML" align="center" alt="Caio HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img title="CSS" align="center" alt="Caio CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img title="Github" align="center" alt="Adriano-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -25,10 +25,10 @@
 <br>
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianopavaneli&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianopavaneli&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianopavaneli&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cf-caiofelipe&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cf-caiofelipe&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cf-caiofelipe&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianopavaneli&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=adrianopavaneli&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianopavaneli&layout=compact&langs_count=7&theme=github_dark)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cf-caiofelipe&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=adrianopavaneli&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cf-caiofelipe&layout=compact&langs_count=7&theme=github_dark)
 | :-: | :-: | :-: |
 
 
@@ -37,13 +37,11 @@
     
 
 <div align="center"> 
-    <a href="https://www.linkedin.com/in/adrianopavaneli//" target="_blank">
+    <a href="https://www.linkedin.com/in/caio-felipe-815878209" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/adrianopavaneli/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:adriano.pavaneli.dev@gmail.com">
+    <a href = "mailto:caiofelipe.developer@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://drive.google.com/file/d/1jvt0okmdMf--8d5eQQv6zWlwnXNR4gz9/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
+     <a href="https://drive.google.com/file/d/1hqZPiNrjZlXUTuTkxu5HZYxsvft58Skg/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
   </div> 
     
  
@@ -51,7 +49,7 @@
 <div align="center">
   <img align="center" src="https://img.freepik.com/vetores-gratis/programador-fazendo-seu-trabalho-apartamento-desenho_52683-14150.jpg?" width="200px">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=adrianopavaneli&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/adrianopavaneli?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adrianopavaneli?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=cf-caiofelipe&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/cf-caiofelipe?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/cf-caiofelipe?style=for-the-badge">
 </div>
