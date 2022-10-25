@@ -16,11 +16,11 @@
 
 <div style="display: inline_block"><br>
     <img title="C#" align="center" alt="Caio C#" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-     <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg">
+     <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://img.icons8.com/external-those-icons-flat-those-icons/452/external-Dot-Net-Logo-social-media-those-icons-flat-those-icons.png">
      <img title="HTML" align="center" alt="Caio HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img title="CSS" align="center" alt="Caio CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img title="Github" align="center" alt="Adriano-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img title="SQL Server" align="center" alt="Caio SQL Server" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
+  <img title="SQL Server" align="center" alt="Caio SQL Server" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
 </div>  
 <br>
 
