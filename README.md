@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
     <img title="C#" align="center" alt="Caio C#" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-     <img title=".NET" align="center" alt="Caio .Net" height="30" width="55" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
+     <img title=".NET" align="center" alt="Caio .Net" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
      <img title="HTML" align="center" alt="Caio HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img title="CSS" align="center" alt="Caio CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img title="Github" align="center" alt="Adriano-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
